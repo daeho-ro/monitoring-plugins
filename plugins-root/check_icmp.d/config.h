@@ -11,6 +11,7 @@
 #include <netinet/icmp6.h>
 #include <arpa/inet.h>
 #include <stdint.h>
+#include <sys/time.h>
 #include "./check_icmp_helpers.h"
 #include "output.h"
 
